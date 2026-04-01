@@ -56,16 +56,14 @@ Personal_Project/
 ## How to run ##
 
 Install Dependencies:
-
+```bash
 pip install pandas numpy scikit-learn xgboost streamlit matplotlib plotly
-
+```
 Run the Streamlit App
-
+```bash
 python -m streamlit run app.py
-
-Then open:
-
-http://localhost:8501
+```
+Then open: http://localhost:8501
 
 ## Results ##
 
