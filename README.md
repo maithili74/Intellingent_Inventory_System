@@ -73,6 +73,5 @@ Then open: http://localhost:8501
 
 - Achieved ~32% MAPE on demand forecasting
 - Successfully translated forecasts into real-time inventory decisions
-- Built a complete pipeline from data → model → optimization → dashboard
+- Built a complete pipeline from data -> model -> optimization -> dashboard
 
-![Frontend Image]("C:\Users\MAITHILI\Downloads\project_img.png")
