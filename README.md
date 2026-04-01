@@ -40,17 +40,17 @@ The goal is to move beyond forecasting alone and create a decision-support syste
 Personal_Project/
 │
 ├── Codes/                          # Main code directory
-│   ├── datapreprocess_model.ipynb  # Data preprocessing and demand forecasting model development
+│   ├── datapreprocess_model.ipynb   # Data preprocessing and demand forecasting model development
 │   ├── inventory.ipynb             # Inventory optimization calculations (safety stock, reorder point, EOQ, etc.)
 │   ├── decision_rule.ipynb         # Decision rule implementation for reorder logic
 │   └── frontend.py                 # Streamlit frontend for visualizing inventory status and reorder recommendations
 │
 ├── Datasets/                       
-│   ├── forecast_output_test.csv  
-│   ├── inventory_decision_output.csv           
-│   └── inventory_optimization_output.csv     
+│   ├── forecast_output_test.csv    
+│   ├── inventory_decision_output.csv 
+│   └── inventory_optimization_output.csv 
 │
-└── README.md 
+└── README.md                       
 
 ## How to run ##
 
