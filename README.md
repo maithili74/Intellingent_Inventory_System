@@ -65,7 +65,7 @@ pip install pandas numpy scikit-learn xgboost streamlit matplotlib plotly
 ```
 Run the Streamlit App
 ```bash
-python -m streamlit run app.py
+python -m streamlit run frontend.py
 ```
 Then open: http://localhost:8501
 
